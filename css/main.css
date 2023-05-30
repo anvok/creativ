@@ -636,7 +636,55 @@ header {
     padding-top: 20px;
 }
 
+.place {
+    background-color: #2E2E2E;
+}
 
+.place__info {
+    padding-top: 140px;
+    padding-bottom: 80px;
+}
+
+.place__text {
+    font-family: OswaldLight, sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    opacity: 50%;
+    text-align: center;
+}
+
+.place__text2 {
+    font-family: OswaldLight, sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    opacity: 50%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    padding-top: 45px;
+    gap: 30px;
+}
+
+.footer {
+    background-color: #252525;
+}
+
+.footer__text {
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 50%;
+    font-family: OswaldLight, sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 
 
